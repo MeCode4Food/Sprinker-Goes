@@ -1,0 +1,9 @@
+c:\users\lck\documents\visual studio 2015\Projects\SprinklerGoes\SprinklerGoes\bin\Debug\SprinklerGoes.exe.config
+C:\Users\LCK\documents\visual studio 2015\Projects\SprinklerGoes\SprinklerGoes\bin\Debug\SprinklerGoes.exe
+C:\Users\LCK\documents\visual studio 2015\Projects\SprinklerGoes\SprinklerGoes\bin\Debug\SprinklerGoes.pdb
+C:\Users\LCK\documents\visual studio 2015\Projects\SprinklerGoes\SprinklerGoes\obj\Debug\SprinklerGoes.csprojResolveAssemblyReference.cache
+C:\Users\LCK\documents\visual studio 2015\Projects\SprinklerGoes\SprinklerGoes\obj\Debug\SprinklerGoes.Form1.resources
+C:\Users\LCK\documents\visual studio 2015\Projects\SprinklerGoes\SprinklerGoes\obj\Debug\SprinklerGoes.Properties.Resources.resources
+C:\Users\LCK\documents\visual studio 2015\Projects\SprinklerGoes\SprinklerGoes\obj\Debug\SprinklerGoes.csproj.GenerateResource.Cache
+C:\Users\LCK\documents\visual studio 2015\Projects\SprinklerGoes\SprinklerGoes\obj\Debug\SprinklerGoes.exe
+C:\Users\LCK\documents\visual studio 2015\Projects\SprinklerGoes\SprinklerGoes\obj\Debug\SprinklerGoes.pdb
